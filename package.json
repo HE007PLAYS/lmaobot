@@ -9,6 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.3.2"
-  }
+    "discord.js": "^11.3.2",
+    "ms": "^2.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HE007PLAYS/lmaobot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HE007PLAYS/lmaobot/issues"
+  },
+  "homepage": "https://github.com/HE007PLAYS/lmaobot#readme"
 }
