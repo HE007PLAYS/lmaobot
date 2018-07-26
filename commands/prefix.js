@@ -19,7 +19,7 @@ fs.writeFile("./prefixes.json", JSON.stringify(prefixes), (err) => {
 let sEmbed = new Discord.RichEmbed()
 .setColor("FF9900")
 .setTitle("Prefix set!")
-.setDescription(`Setr to ${args[0]}`);
+.setDescription(`Set to ${args[0]}`);
 
 message.channel.send(sEmbed);
 
