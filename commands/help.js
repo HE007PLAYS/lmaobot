@@ -6,7 +6,7 @@ let helpembed = new Discord.RichEmbed()
 .setDescription("Help Menu")
 .setColor("#4298f4")
 .addField("Member Commands", "help, server, info and report commands")
-.addField("More commands", "clear, pay and coins");
+.addField("More commands", "clear, pay and coins and say");
 
 try{
 await message.author.send(helpembed);
